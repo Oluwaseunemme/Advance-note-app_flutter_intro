@@ -1,0 +1,1 @@
+Built a simple but professional note app as my first flutter framework project, note has real time sync with firebase ..it also has categories with various options like favorite, clear categories or clear all notes
